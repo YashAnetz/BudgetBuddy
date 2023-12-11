@@ -7,7 +7,7 @@
 
 <h3>BudgetBuddy: Personal Budget Application</h3>
 
-![Alt text](BudgetBuddy/personal-budget/dist/personal-budget/assets/logo.png)
+![Alt text](/BudgetBuddy/personal-budget/dist/personal-budget/assets/logo.png)
 
 ## **Submitted By: Yash Ahire**
 
