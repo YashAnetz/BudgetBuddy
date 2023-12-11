@@ -7,7 +7,7 @@ describe("Visit Personal Budget", () => {
         testName: "Visit home",
       });
   
-      cy.visit("/home");
+      cy.visit("/#/home");
   
       cy.eyesCheckWindow({
         tag: "Login page",

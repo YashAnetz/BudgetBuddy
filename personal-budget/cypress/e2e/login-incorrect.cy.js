@@ -6,7 +6,7 @@ describe("login tests", () => {
         appName: "Personal Budget",
         testName: "Verify incorrect login credentials fail",
       });
-      cy.visit("/home");
+      cy.visit("/#/home");
       cy.contains("a.nav-link", "Login / Sign up").click();
   
       cy.hash().should("eq", "#/login");

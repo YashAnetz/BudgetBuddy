@@ -19,7 +19,7 @@
 ---
 
 - Use the following credentials for testing:
-  - **Username:** ry@yash.com
+  - **Username:** y@yash.com
   - **Password:** 1234
 
 ---
@@ -112,6 +112,10 @@ npx cypress open
 ```
 
 #### E2E Results
+
+![Alt text](image-8.png)
+![Alt text](image-9.png)
+![Alt text](image-10.png)
 
 ### Unit Tests
 

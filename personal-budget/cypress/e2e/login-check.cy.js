@@ -2,7 +2,7 @@
 
 describe("login tests", () => {
     it("does not work with wrong credentials", () => {
-      cy.visit("/home");
+      cy.visit("/#/home");
       cy.contains("a.nav-link", "Login / Sign up").click();
   
       cy.hash().should("eq", "#/login");
@@ -13,7 +13,7 @@ describe("login tests", () => {
     });
   
     it("does work with correct credentials", () => {
-      cy.visit("/home");
+      cy.visit("/#/home");
       cy.contains("a.nav-link", "Login / Sign up").click();
   
       cy.hash().should("eq", "#/login");
