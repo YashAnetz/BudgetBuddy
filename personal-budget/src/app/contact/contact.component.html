@@ -1,0 +1,25 @@
+<main role="main" class="container center">
+  <pb-breadcrumbs>
+    <a [routerLink]="['/']">Home</a>
+    <p>&nbsp;&nbsp;/&nbsp;&nbsp;</p>
+    <p>Contact</p>
+  </pb-breadcrumbs>
+
+  <div class="help">
+  <h2>Hello ,  {{ authService.getLoggedUser() }}!</h2>
+  <span>Contact <span>yahire@uncc.edu</span> for help , or fill this form </span> 
+  <div class="fom">
+  <input placeholder="Enter your Name"><input placeholder="Enter Your Email"><input placeholder="Enter your message">
+  <button id="submitButton">
+   Submit
+  </button>
+</div>
+</div>
+  
+</main>
+
+<script>
+  document.getElementById('submitButton').addEventListener('click', function() {
+    alert('Your message has been submitted!');
+  });
+</script>

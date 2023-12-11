@@ -1,0 +1,46 @@
+.help
+{
+
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.fom
+{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: auto;
+}
+
+input
+{
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    height: 30px;
+}
+
+button
+{
+    border: none;
+    background-color: teal;
+    border-radius: 10px;
+    height: 40px;
+
+    margin: none;
+  color: white;
+}
+
+h2
+{
+    background-color: teal;
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: medium;
+    color: white;
+}
