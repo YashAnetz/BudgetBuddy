@@ -131,7 +131,8 @@ ng test
 
 #### Results of Unit Tests
 
-## ![Alt text](image.png)
+![image](https://github.com/YashAnetz/BudgetBuddy/assets/55511290/746b1c8c-0a1d-42c0-b62b-391f8ad18087)
+
 
 **Application Snapshots:**
 
