@@ -7,7 +7,7 @@
 
 <h3>BudgetBuddy: Personal Budget Application</h3>
 
-![Alt text](/personal-budget/assets/logo.png)
+![Alt text](personal-budget/src/assets/logo.png)
 
 ## **Submitted By: Yash Ahire**
 
@@ -113,9 +113,9 @@ npx cypress open
 
 #### E2E Results
 
-![Alt text](image-8.png)
-![Alt text](image-9.png)
-![Alt text](image-10.png)
+![Alt text](personal-budget/image-8.png)
+![Alt text](personal-budget/image-9.png)
+![Alt text](personal-budget/image-10.png)
 
 ### Unit Tests
 
@@ -137,31 +137,31 @@ ng test
 
 **HomePage**
 
-![Alt text](image.png)
+![Alt text](personal-budget/image.png)
 
 **AboutPage**
 
-![Alt text](image-1.png)
+![Alt text](personal-budget/image-1.png)
 
 **Contact Page**
 
-![Alt text](image-2.png)
+![Alt text](personal-budget/image-2.png)
 
 **Login**
 
-![Alt text](image-3.png)
+![Alt text](personal-budget/image-3.png)
 
 **Register**
 
-![Alt text](image-4.png)
+![Alt text](personal-budget/image-4.png)
 
 **Dashboard**
 
-![Alt text](image-5.png)
+![Alt text](personal-budget/image-5.png)
 
 **Charts**
 
-![Alt text](image-6.png)
+![Alt text](personal-budget/image-6.png)
 
 ---
 
